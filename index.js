@@ -40,7 +40,7 @@ function johnLennonFacts(facts) {
   return johnLennon;
 }
 
-function iLoveTheBeatles() {
+function iLoveTheBeatles(17) {
   let beatlesLove = [];
   var i = 7;
 
@@ -51,6 +51,6 @@ function iLoveTheBeatles() {
 
   do {
     beatlesLove.push("I love the Beatles!");
-  } while (incrementVariable() < 15);
+  } while (incrementVariable(n) < 15);
   return beatlesLove;
 }
