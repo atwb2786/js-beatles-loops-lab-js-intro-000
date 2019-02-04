@@ -40,11 +40,11 @@ function johnLennonFacts(facts) {
   return johnLennon;
 }
 
-function iLoveTheBeatles(n) {
+function iLoveTheBeatles() {
   let beatlesLove = [];
   var i = 7;
 
-  function incrementVariable(17) {
+  function incrementVariable() {
     i = i + 1;
     return i;
   }
