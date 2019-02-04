@@ -40,13 +40,13 @@ function johnLennonFacts(facts) {
   return johnLennon;
 }
 
-function iLoveTheBeatles() {
+function iLoveTheBeatles(number) {
   let beatlesLove = [];
-  var i = 7;
+  var i = number;
 
   function incrementVariable() {
-    i = i + 1;
-    return i;
+    number = number + 1;
+    return number;
   }
 
   do {
