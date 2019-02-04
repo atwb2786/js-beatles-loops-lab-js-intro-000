@@ -40,7 +40,7 @@ function johnLennonFacts(facts) {
   return johnLennon;
 }
 
-function iLoveTheBeatles(17) {
+function iLoveTheBeatles(n) {
   let beatlesLove = [];
   var i = 7;
 
