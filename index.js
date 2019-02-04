@@ -51,6 +51,6 @@ function iLoveTheBeatles() {
 
   do {
     beatlesLove.push("I love the Beatles!");
-  } while (incrementVariable(n) < 15);
+  } while (incrementVariable() < 15);
   return beatlesLove;
 }
