@@ -42,9 +42,9 @@ function johnLennonFacts(facts) {
 
 function iLoveTheBeatles(n) {
   let beatlesLove = [];
-  var i = 17;
+  var i = 7;
 
-  function incrementVariable() {
+  function incrementVariable(17) {
     i = i + 1;
     return i;
   }
